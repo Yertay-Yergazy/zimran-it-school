@@ -6,9 +6,7 @@ Prepared by **Yertay Yergazy** — [LinkedIn](https://www.linkedin.com/in/yertay
 
 ## Contents
 
-- [`spotify-presentation.pdf`](spotify-presentation.pdf) — the 11-slide presentation (widescreen 16:9, ready to view or print)
-- [`spotify-presentation.html`](spotify-presentation.html) — the same deck as a standalone, self-contained HTML file (open directly in a browser)
-- [`assets/`](assets/) — supporting image used in the deck
+- [`task-1-presentation.pdf`](task-1-presentation.pdf) — the 11-slide presentation (widescreen 16:9)
 
 ## What's inside
 
